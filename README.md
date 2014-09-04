@@ -7,9 +7,10 @@ The communication is based on HTTP POST method with JSON statement argument
 Example of Message Generation in JAVA
 ---------
 
-This executable may be used for API testing
-
 Test .jar file
 -----------
+
+This executable may be used for API testing
+
 Example of JSON argument statement
 -----------
