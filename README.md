@@ -20,7 +20,12 @@ Download [messages-samples.jar](http://host.simagis.com/live/users/#w:messages/f
 
 Example of usage:
 
-    java -cp messages-samples.jar com.simagis.live.messages.samples.SendMessage https://userId:password@host.simagis.com/live/messages SimpleMessage.json  
+    java -cp messages-samples.jar com.simagis.live.messages.samples.SendMessage https://userId:password@host.simagis.com/live/messages SimpleMessage.json
+
+or
+
+    java -cp messages-samples.jar com.simagis.live.messages.samples.SendMessage https://userId:password@host.simagis.com/live/messages
+
 
 Example of JSON argument statement
 -----------
