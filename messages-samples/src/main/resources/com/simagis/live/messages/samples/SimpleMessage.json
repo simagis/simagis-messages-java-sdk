@@ -1,0 +1,18 @@
+{
+    "message": {
+        "workspaces": "messages",
+        "folder": "message-test",
+        "folderAutoCreate": true
+    },
+
+    "attributes": [
+        {
+            "class": "com.simagis.live.attr.med.PatientID",
+            "value": "John Smith"
+        },
+        {
+            "class": "com.simagis.live.attr.med.PatientAge",
+            "value": 75
+        }
+    ]
+}
