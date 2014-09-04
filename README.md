@@ -28,7 +28,7 @@ Example of JSON argument statement
 
     {
         "message": {
-            "workspaces": "messages",
+            "workspace": "messages",
             "folder": "message-test",
             "folderAutoCreate": true
         },

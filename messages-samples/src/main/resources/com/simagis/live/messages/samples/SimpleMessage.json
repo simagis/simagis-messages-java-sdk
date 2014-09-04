@@ -1,6 +1,6 @@
 {
     "message": {
-        "workspaces": "messages",
+        "workspace": "messages",
         "folder": "message-test",
         "folderAutoCreate": true
     },
