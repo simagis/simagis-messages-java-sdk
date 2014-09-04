@@ -16,7 +16,7 @@ Test messages-samples.jar file
 -----------
 This executable may be used for API testing
 
-Download [messages-samples.jar](https://host.simagis.com/live/layers/attachment?project=Users%2Fmessages%2Fb6f355d5-a4e2-4cff-8908-2fa996dad03e&attachment=d7ae1e00-9b73-469e-9989-e1b678a45e7f)
+Download [messages-samples.jar](http://host.simagis.com/live/users/#w:messages/f:3e196188-22f4-40b2-b4e6-932cfdc03c65/s:p:ae5c2027-f2ce-460c-89a1-5ee5b74f8631)
 
 Example of usage:
 
