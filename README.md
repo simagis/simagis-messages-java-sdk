@@ -4,6 +4,8 @@ Simagis Live API SDK
 The purpose of Simagis Live API is to provide data interface between Simagis Live server and third party systems such as LIS.
 The communication is based on HTTP POST method with JSON content and BASIC authorization 
 
+[HL7 to Simagis Live Attribute Mapping](https://docs.google.com/document/d/13AHw_WqWU9moDeQRcNwGbGBgi3cjhQDSyjpOCCVUfCk/edit?usp=sharing)
+
 Example of Message Generation in JAVA
 ---------
 
