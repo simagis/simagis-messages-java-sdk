@@ -11,14 +11,14 @@ Example of Message Generation in JAVA
 
 [SendMessage.java](messages-samples/src/main/java/com/simagis/live/messages/samples/SendMessage.java)
 
-This code will invoke API, update attributes for a folder on Simagis Live server and return results of transaction   
+This code will invoke API, update attributes for a folder on Simagis Live server and return results of transaction
 
 
 Test messages-samples.jar file
 -----------
 This executable may be used for API testing
 
-Before download and testing you must register user account at <https://host.simagis.com/live/register>   
+Before download and testing you must register user account at <https://host.simagis.com/live/register>
 
 Download [messages-samples.jar](http://host.simagis.com/live/users/#w:messages/f:3e196188-22f4-40b2-b4e6-932cfdc03c65/s:p:ae5c2027-f2ce-460c-89a1-5ee5b74f8631)
 
